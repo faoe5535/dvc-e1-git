@@ -25,7 +25,7 @@ Folgende Methoden habe ich angewendet:
 
 4. Zeitreisen
 
-Ich habe mit `git log` ältere Commits angesehen und mit `git checkout` zwischen Versionen gewechselt.
+Ich habe mit git log ältere Commits angesehen und mit git checkout zwischen Versionen gewechselt.
 
 5. Branches
 
