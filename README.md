@@ -26,7 +26,8 @@ Folgende Methoden habe ich angewendet:
 4. Zeitreisen
 
 Ich habe mit git log ältere Commits angesehen.
-Anhand meinem Screenshot ist meine komplette Commit-History ersichtlich und alte Zustände sind sichtbar. 
+Anhand meiner Screenshots ist meine komplette Commit-History ersichtlich und alte Zustände sind sichtbar. 
+Ich habe auch einzelne Schritte gescreenshotet und im images Ordner hinterlegt. 
 
 5. Branches
 
