@@ -25,7 +25,8 @@ Folgende Methoden habe ich angewendet:
 
 4. Zeitreisen
 
-Ich habe mit git log ältere Commits angesehen und mit git checkout zwischen Versionen gewechselt.
+Ich habe mit git log ältere Commits angesehen.
+Anhand meinem Screenshot ist meine komplette Commit-History ersichtlich und alte Zustände sind sichtbar. 
 
 5. Branches
 
